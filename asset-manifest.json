@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/HermesKI/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/HermesKI/static/js/main.26948cee.chunk.js",
-    "main.js.map": "/HermesKI/static/js/main.26948cee.chunk.js.map",
-    "runtime~main.js": "/HermesKI/static/js/runtime~main.fed62509.js",
-    "runtime~main.js.map": "/HermesKI/static/js/runtime~main.fed62509.js.map",
-    "static/js/2.bbc244fd.chunk.js": "/HermesKI/static/js/2.bbc244fd.chunk.js",
-    "static/js/2.bbc244fd.chunk.js.map": "/HermesKI/static/js/2.bbc244fd.chunk.js.map",
-    "static/js/3.a29efab2.chunk.js": "/HermesKI/static/js/3.a29efab2.chunk.js",
-    "static/js/3.a29efab2.chunk.js.map": "/HermesKI/static/js/3.a29efab2.chunk.js.map",
-    "index.html": "/HermesKI/index.html",
-    "precache-manifest.f68a5964470f98bd37770e5348fb34ee.js": "/HermesKI/precache-manifest.f68a5964470f98bd37770e5348fb34ee.js",
-    "service-worker.js": "/HermesKI/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/HermesKI/static/css/main.435d5fe5.chunk.css.map",
-    "static/media/logo.svg": "/HermesKI/static/media/logo.06e73328.svg"
+    "main.css": "/image-classification-project/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/image-classification-project/static/js/main.26948cee.chunk.js",
+    "main.js.map": "/image-classification-project/static/js/main.26948cee.chunk.js.map",
+    "runtime~main.js": "/image-classification-project/static/js/runtime~main.c0df283b.js",
+    "runtime~main.js.map": "/image-classification-project/static/js/runtime~main.c0df283b.js.map",
+    "static/js/2.bbc244fd.chunk.js": "/image-classification-project/static/js/2.bbc244fd.chunk.js",
+    "static/js/2.bbc244fd.chunk.js.map": "/image-classification-project/static/js/2.bbc244fd.chunk.js.map",
+    "static/js/3.a29efab2.chunk.js": "/image-classification-project/static/js/3.a29efab2.chunk.js",
+    "static/js/3.a29efab2.chunk.js.map": "/image-classification-project/static/js/3.a29efab2.chunk.js.map",
+    "index.html": "/image-classification-project/index.html",
+    "precache-manifest.51a9cbccf5f844ae8ef768525a31a258.js": "/image-classification-project/precache-manifest.51a9cbccf5f844ae8ef768525a31a258.js",
+    "service-worker.js": "/image-classification-project/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/image-classification-project/static/css/main.435d5fe5.chunk.css.map",
+    "static/media/logo.svg": "/image-classification-project/static/media/logo.06e73328.svg"
   }
 }
