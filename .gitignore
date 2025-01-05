@@ -1,1 +1,11 @@
+# Ignoriere das gpt4-protected-frontend Verzeichnis
+gpt4-protected-frontend/
+
+# Ignoriere das image-classification-project Verzeichnis
+image-classification-project/
+
+# Ignoriere das venv Verzeichnis
+venv/
+
+# Ignoriere alle .DS_Store Dateien
 .DS_Store
